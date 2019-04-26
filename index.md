@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎访问韩旺坤的资源
+在这个资源里面，包含了作者本人的原创内容产品，也包含了作者与其他开发者一起完成和修改的产品。
 
-You can use the [editor on GitHub](https://github.com/hanwangkun/hanwangkun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+----------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 语言
+主要是Java和Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+----------
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 领域
+物流领域、大数据分析、传统软件、AI、物联网及云计算领域。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanwangkun/hanwangkun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+----------
